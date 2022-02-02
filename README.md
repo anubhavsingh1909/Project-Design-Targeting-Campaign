@@ -31,10 +31,10 @@ Balance Transfer Propensity Score: *Propensity of customer initiating a balance 
 \
 Targeted_product: *Product for which the person was targeted*\
 \
-Applied for the card: *Indicator if customer applied for the card*
+Applied for the card: *Indicator if customer applied for the card*\
 \
 Approved for the card: *Indicatorif card application was approved*\
 \
 Sampling Factor: *Sampling factor is used to calculate likelihood*\
 \
-Customer Lifetime Value: *Present value of all cashflow expected from customer*\
+Customer Lifetime Value: *Present value of all cashflow expected from customer*
