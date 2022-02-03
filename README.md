@@ -1,4 +1,4 @@
-# Project-1
+# Project - Design Targeting Campaign
 I have added a presentation in the repository with a brief explanation of the project and what are we doing in this project.\
 *As the code is dynamic, it produces different results each time based on the training and testing set chosen by the model at the time of code implementation, so final results may vary each time.*
 
